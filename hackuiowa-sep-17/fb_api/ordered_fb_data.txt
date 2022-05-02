@@ -1,0 +1,841 @@
+Richmond Town Square,1
+South Florida Style Chicken & Ribs,1
+The Tea Emporium,1
+TRUmatch,1
+Blimpie,1
+Baxter's Cigars,1
+Back-Health Chiropractic,0
+Auto Bathouse,1
+JAB Jewelry Designs,1
+Neighborhood Vision Center,1
+Red Rock Bowling UYE Part 2,1
+Sq Cutz,0
+Safeway,1
+Artificial Grass Masters,1
+Applebee's,1
+China Garden,1
+Beach Ventures Roofing,1
+Koko Bakery,1
+U.S. Bank,1
+Precision Tune Auto Care,1
+Rocky's,1
+Wild Wing,0
+Direct Mindpower,1
+Premiere Social Media,1
+Black Bull Tavern,1
+Hart House Theatre,1
+Great Clips,1
+Snip-its Rocky River,0
+Red Lobster,1
+The Works,1
+Anasazi Foundation,0
+Milestones Restaurants,0
+Papa Chang's Tea Bistro,1
+Quaker Steak & Lube,0
+Saks Fifth Avenue,1
+McCarthy's Irish Pub,1
+QQ Foot Spa,1
+Express Collision Center,1
+The UPS Store,1
+Domino's Pizza,1
+Sisley Hyundai,1
+Paris Bakery & Pastry,0
+Fortinos Supermarket,1
+Lowe's Home Improvement,1
+Rad Air Complete Car Care and Tire Centers,1
+Wells Fargo Bank,1
+Bella Christine Salon and Spa,1
+Szechuan Cuisine,0
+Nabers Music,0
+Hyde Out,1
+Oishi Sushi,1
+Le Cartet,1
+Boardwalk Place,1
+Fiesta Ranchera,1
+Professional Property Management,1
+El Pollo Loco,1
+Valvona & Crolla,1
+Krispy Kreme Doughnuts,1
+Gunnell's Tire & Auto,1
+Adelaide Hall,1
+Sangria Lounge,1
+Baja Fresh Mexican Grill,1
+Fast Movers,1
+Desert Title Service,1
+Enterprise Rent-A-Car,1
+The Tattoo Lounge,1
+Celebrity Theatre,1
+Five Guys,1
+Ristorante Beatrice,1
+Farra Swan Nd,0
+Profile Nail Spa,0
+Theodor-Heuss-Haus,1
+Box Brothers,1
+Sun Devil Window Cleaning,1
+Schenk's Corners Coin-Op Laundromat,1
+Dash Designs,1
+Sidewalk Cafe Painesville,1
+The Great Canadian Pizza Company,1
+Good Time Bar,1
+Steak 'n Shake,1
+Gigi's Cupcakes of Phoenix,0
+The Pittsburgh Popcorn Company,0
+Stagehouse Vision Center,1
+McChans Oriental Express,0
+Phoenix NewTimes,0
+Randall's Fine Art & Custom Framing,0
+Brautatelier Tara,1
+Joshan Filipino Oriental Market,0
+Colling Photography,1
+Tausche,0
+Progressive Insurance,1
+Angel Touch Nails,1
+Just Roughin' It Adventure Company,1
+Executive Training Solutions,1
+Jade Palace,1
+Bellacino's Pizza & Grinders,1
+Don Ruben's Mexican Restaurant,1
+Scuba Specialties,1
+Mayfield Village,1
+Arizona Sports Chiropractic & Wellness Center,1
+Chuparosa Park,1
+Smallcakes Cave Creek,1
+Gold's Gym,1
+Mariscos Playa Escondida,1
+Salon Picasso,1
+Sport Clips,0
+Tea & Kitchen,0
+Automotive Dynamics,1
+Atkins' Verona Bicycle Shoppe,0
+Petrosilius,1
+Bahama Buck's,1
+Walgreens,1
+Baja Miguel's,0
+Starbucks,1
+Bookmaster,1
+Kelly's At Southbridge,0
+Buk Chang Dong Soon Tofu,1
+One Las Vegas Home Owners Association,1
+Zeppe's Pizzeria,1
+Sal's New York Pizzeria,1
+Subway,1
+Detroit Lakewood Automotive,1
+Midas,1
+Cvs,0
+Gilbert Family Medicine,0
+Sgt. Clean's Car Wash,1
+Alterations Express,1
+Desert West Surgery,1
+Buonanotte,1
+Ophelie Hats,1
+McGann & Chester,0
+Pils-Stube Ritter,1
+AutoZone,1
+Arpino Trattoria,1
+Bella Smiles,1
+Korean Cosmetics,1
+Subway,1
+Freshii Rutherford Marketplace,1
+Baby Cakes,1
+Studio 2.0 Ink,0
+Little Italy,1
+Buzz Buzz Pizza,1
+Prestige Portraits,1
+Armor Pest Defense,1
+Juicy Vapes,1
+Mariachi,1
+New P2K salon,0
+Murrhardter Hof Burhan,0
+Big Daddy's Bourbon Street Bistro & Oyster Bar,1
+Buddy's Muffler & Exhaust,0
+AZ CUSTOM COATINGS,1
+1 For the Road,0
+Chub's Place,1
+Centurion Management Services,0
+The Home Depot,1
+Bombay Chopsticks,1
+Empire Customs,1
+MainSha Restaurant,0
+Ripple Management,1
+Affordable Auto Repair,1
+Cardiac Solutions,1
+AZ's Best Locksmith,0
+Twisted Tree Health,0
+Joseph Garner,1
+Modern Furniture Studio,1
+Chickenland,1
+Veritas,1
+Mex Mufflers & Brakes,1
+Firehouse Subs,1
+Grbach Bruce D DDS,0
+Pure Barre - Lake Norman Birkdale,0
+Sushi Hoshimi,1
+Alto Restaurant,1
+Richie Chan's Chinese Restaurant,1
+Unity One,1
+Sushi Osaka,1
+Thrift DLux,1
+Mercedes-Benz of Arrowhead,1
+Second Cup,1
+Gecko Grill,1
+The Globe Deli,0
+Concrete Accessories,0
+Romeo's Pizza,1
+T & D Steak-Burger,1
+House of Africa,0
+Village Ski and Snowboard,1
+LensCrafters,1
+Welch Dentistry,1
+Zahid Hamid,1
+Sushi Shop,1
+The UPS Store,1
+Skinny Me Chocolate,0
+Coach,1
+Catalina Sports Bar & Grill,0
+Island Spice,1
+Island Hub Restaurant & Lounge,1
+Clean Machine,1
+Cineplex Cinemas,1
+Friendly Hobbies,1
+Amuse-Bouche Restaurant,0
+Living Furniture,0
+Petco,1
+The Fox & Fiddle,1
+Alcohol Educational Services,0
+CIA Customs,1
+Al Phillips the Cleaner,1
+Film Monkey,0
+Smoke Bourbon Bar-B-Q House,0
+Organic Nail Bar,1
+JB Cleaner & Tailor,0
+First Choice Communications,1
+Autospa of Arizona,1
+Mood,1
+Toronto Distillery,1
+Taza Indian Kitchen,1
+Flato Markham Theatre,1
+Got What It Cakes,1
+Banfield Pet Hospital,1
+Bittner Vision Associates,1
+The CORE Institute- Gilbert,0
+Love's In The Hair,1
+Kulinarium an der Glems,1
+Chase Bank,1
+La Boite A Coiffer,0
+The Tap Room,1
+Royal Dry Cleaners,1
+NOIR Salon,0
+Sherwin-Williams Paint Store,0
+AllSaints,0
+Claim Jumper,1
+The Ritz of Las Vegas,1
+A&T Remodeling Stucco,0
+Wingstop,1
+Royal Dumpling,0
+ATI Physical Therapy - Happy Valley,0
+City Wide Plumbing,1
+Sexy Nails & Spa,1
+Papa John's Pizza,1
+Mary Contreras - State Farm Insurance Agent,0
+Crooked River BBQ + Beer,1
+Labour of Love,1
+Winchell's Donut House,1
+Brick Street Bread,0
+Ritters Auto Repair,0
+Tott's Asian Diner,1
+PRO BIKE+RUN,0
+Top Limo Las Vegas,1
+Five Guys,1
+McDonald's,1
+Papa John's Pizza,1
+Taco Bell,1
+Steak 'n Shake,1
+Chase Bank,1
+Applebee's,1
+Pizza Hut,1
+Chipotle Mexican Grill,1
+McDonald's,1
+Eastlake Barber Shop,1
+Golden Cake,1
+Dr. L. David Richer,0
+Rodd Wolff's Hair Productions,0
+Logan's Roadhouse,1
+Best Nails,1
+The Coffee Bean & Tea Leaf,1
+Sola Sofia,1
+Pizza Hut,1
+Haggen Food & Pharmacy,1
+Bar 3,0
+Baskin-Robbins,1
+Fratelli Village Pizzeria,1
+Pete's Fish & Chips,1
+Nike Factory Store,1
+M Station Apartments,1
+Sunwing Vacations,1
+Blues,1
+Electric Ladyland,1
+North Thornhill Community Centre,1
+XOOM Energy,1
+Mcramyun,1
+Spay Neuter Clinic,1
+Batteries America,1
+Floorplay Socks,1
+Dows Bar,1
+BJ's Buffet,1
+Pole Position Raceway,1
+Panera Bread,1
+Enterprise Rent-A-Car,1
+Subway,1
+Bendix Launderette,1
+Sobeys,1
+Richmond Hill Toyota,1
+Central Bark Doggy Day Care,1
+Thirsty Goat,1
+The Recovery Room,1
+Boulangerie Patisserie L'artisan,0
+LASIK MD,1
+Verona Chophouse,1
+Alterations By L,0
+Dean Industries,0
+The Spice Room,1
+Basil Thai Cafe,1
+Japaneiro,0
+Carol of Casey's Pizza,0
+Health For Life,1
+Serendipity Salon Studio,1
+Sheraton Grand Phoenix,1
+Hip Kids Pediatrics,1
+Puppies-N-Love,1
+Mail & More,1
+Big Smoke Burger,1
+Gamblers Book Club,1
+Kilroy's,1
+Grandslam Pizza,1
+Ilpunji Sushi House,1
+At The Ready,1
+Paiute Park,1
+Discovery Family Health,1
+Rachel Liberati - Howard Hanna,0
+Pappadeaux Seafood Kitchen,1
+Raspados el Tarasco,0
+Golden Valley Chinese Restaurant,1
+Eliana's Restaurant,1
+Angelos of Fort Mill,0
+Lifestyles Fitness Personal Training,1
+Murdock Meals,1
+Alan Arnold,0
+Desert Blue Pool Service,0
+StripTease,1
+Golden Thread Dry Cleaners,1
+Fit4QOL,1
+Wendy's,1
+Sweet Basil La Filipiniana,1
+Country Club at the Meadows,0
+US Post Office,1
+Americas Best Value Inn,1
+Sunset Eye Center,1
+Wendy's,1
+Jimmy's Coffee,1
+Applebee's,1
+Fisherman's Choice Pro Shop,0
+Planet Fitness - Phoenix - Metro Center,0
+Water N Ice,1
+Paul's Taxi,1
+Arrow Collision,1
+Brown's Partsmaster,1
+Bass Lake Taverne Inn,0
+Advanced Disposal Service,0
+Import Autoworks,1
+Dairy Queen,1
+Brazil Bakery & Pastry Ltd,0
+Ozpresso,1
+Labpups,0
+Morningside Spice,1
+Margret,1
+Anthem Pediatrics,1
+Jack in the Box,1
+Bureau en Gros,1
+Columbus Bakery,1
+Back To Shine Headlight Restoration,1
+Beetlejuice,1
+Desert Education Solutions LLC,0
+Farinaz Tailoring,1
+Bikram Yoga North Scottsdale,1
+Aroma Espresso Bar,1
+Clean Colonic,1
+B.A. Sweetie Candy,0
+Shinji,1
+Grimaldi's Pizzeria,1
+McDonald's,1
+Cvs Pharmacy,0
+Senge Auto Body,1
+Tabule Middle Eastern Cuisine,0
+Hermanos Mexican Grill,1
+Liberty Shawarma,1
+Holly's Nail & Spa,1
+Papa Da Vinci,1
+Budget Bridal,1
+Happy Dog at the Euclid Tavern,1
+Pine Hills Golf Club,1
+Well & Being at Willow Stream,1
+libero,0
+Arcadian,1
+Beaver Tails,0
+Simply Frosted Cupcakery,1
+Buster's Pizza & Cream of White Oak,0
+Danny's Family Car Wash,1
+Alfonso's Mexican Food,1
+El Grito Taqueria,1
+Hair Addiction,1
+Fortress Credit Pro,1
+California Sandwiches,1
+Starbucks,1
+Pat East Market,1
+Edulis,1
+Swarovski Canada,1
+Verizon,1
+Midway Bar at Hard Rock,0
+Le Tropik Restaurant Bar,0
+Abba Services,0
+Starbucks,1
+Verve Beauty,0
+Marco's Pizza,1
+Style Furniture,1
+Bruno's Valu-Mart,0
+Markham YMCA,0
+Mrakovic Meat & Deli,1
+The 420 Smokehouse,0
+America's Best Value Inn,1
+Medical Marijuana Card,0
+Tuesday Morning,1
+Shots Sports Bar,1
+Jiffy Smog,1
+Happys Pizza,1
+Art's Family Auto Repair,1
+Doetsch Off-Road,1
+Lewis Hitches,1
+Autozone,1
+The Lily Pad,1
+The Charlotte Room,1
+TCBY,1
+Sole Sports Running Zone,1
+Taco Bell,1
+Blossom Music Center,1
+The House Of Loyal.T,0
+Collins-Mehling Transfer,0
+Danier Factory Outlet,1
+KHF Motoring,1
+HighLife North Tryon,0
+Jimmy John's,1
+Segovia Restaurant,1
+Maurie's Fine Chocolates,0
+Journey's Dry Carpet Cleaning,1
+Mad House Coffee,1
+Laptop Expert,1
+Famous Potato,1
+Ciccio Sanwiccio,1
+Seara Bakery & Pastry,1
+Crawford Market,0
+Beauty Supply Warehouse,1
+Dilallo Burger,1
+Cafe Anfora,1
+Vegas Good Buys,0
+Red Rockets 192 Grill,0
+Budget Car Rental,1
+Sole Serenity,1
+Good Gosh Beauty,1
+Swensons Drive-In Restaurants,1
+La Belle Province,1
+Fry's Food Stores of Arizona,0
+Allergy Asthma Clinic,1
+Godavari - South Indian Grandma's Kitchen,0
+Black Forest Haus,1
+Michael W Harper,0
+Camden Fairview,1
+El Asadero,1
+La Estetica,1
+The Gourmet Cake Factory,1
+Casino Gaming School,1
+WorldMark Las Vegas - Spencer Street,1
+Eye Care North,1
+Oinky's Pork Chop Heaven,1
+Cruelty Free Cupcakes,1
+Son Glow Boutique,0
+Cup of Tea Bakery and Cafe,0
+Purdys Chocolatier,1
+Alex the Salon At Ocotillo,1
+S-Bahnhof Stuttgart-Vaihingen,0
+Verona Wine Cellar,1
+JD Nails,1
+Empire Hookah Lounge,1
+Uncle Sam's,1
+Judit European Visage,1
+Bridge Home Inspections,0
+Defalco's Italian Grocery,1
+Pittsburgh Comics,1
+Girl Friday,1
+Schulte Automotive Services,0
+HVAC Air Conditioning Repair,0
+Sail,0
+Children's Dental Center,1
+Robin Hill Park,1
+Fuji Sushi & Grill,1
+Super Liquor Outlet,1
+Value Village Thrift Store,1
+Wendy's,1
+Society of St Vincent De Paul,0
+Nicole J Moss,0
+Orangetheory Fitness Surprise,1
+Surprise Dental Care,1
+Waggs-N-Whiskers,0
+Selah Salon,1
+Humber River Regional Hospital,1
+Panda Express,1
+Magic Bumper Repair,1
+Omoide Sushi & Noodle Bar,1
+Short Leash Hot Dogs Food Truck,0
+The Rude Boy,1
+Motors & More,1
+Mommy 2B Experience,1
+Pinnacle Fencing Solutions,1
+Walgreens,1
+Daulat Medical Center,1
+Wild Indigo,1
+Marie Callender's Restaurant & Bakery,1
+Alphadrone,0
+Fine Wine & Good Spirits,1
+Dublin Auto Repairs,1
+Frank's Plumbing,1
+Cholla Custom Cabinets,1
+KD Wallace Optometry,0
+Royal Jasmine Thai Restaurant,1
+The Westin Convention Center,0
+Bill's Garden Centre,1
+New Living Pools,1
+Healthy Life Family Medicine,1
+Recinos Shoe Repair,1
+Raising Cane's,0
+Le Petit Coin,1
+Select Auto Glass,1
+Otto Onkel,0
+Chipotle Mexican Grill,1
+The Captains Table,1
+Gado Gado,1
+Stevie's Healing Arts & Spa,1
+Hooters,1
+Popeyes Louisiana Kitchen,1
+Budget Movers,1
+Pediatric & Adult Vision Care,1
+Law Office of Richards & Associates,1
+Best Buy Mobile,1
+Bug & Weed Mart,1
+A & B Barbershop,1
+The Red Rooster,1
+Costa Verde BBQ Chicken,1
+Rita's Italian Ice,1
+Blair Ballin Realtor,1
+Brannon Hair,1
+CoR Tapas & Wine,0
+Taco Bell,1
+Edge Steakhouse,1
+KanBai,0
+Asian Cafe,1
+MVP Bar Sportif,0
+Club Fu Wing Chun Kung Fu,0
+Raimondo's,1
+Gussied Up,1
+Top Notch Air Conditioning & Heating Repair,0
+The Southern,1
+Bricks & Minifigs Madison,1
+Kaercher Automotive,1
+Penelope Pink,1
+Pizza Hut,1
+Spago by Wolfgang Puck,1
+Macado's,1
+Sac Wich,1
+Le Couteau,1
+Oggi's,0
+Fry's Food and Drug,0
+The Audrey Beauty Bar,0
+Bojangles' Famous Chicken 'n Biscuits,1
+Oaks Gardens Restaurant,1
+Total Wine & More,1
+Whole Foods Market,1
+Jiffy Lube,1
+It's A Grind Coffee House,1
+Society of St Vincent De Paul,0
+Sneaky Dee's,1
+Pioneer Ford,1
+Real Canadian Superstore,1
+Evershine Print & Parcel,1
+Robertos Taco Shop,1
+Magic Brows,1
+Cactus Sports,1
+Pitaya,1
+Schropp,0
+All Storage - Anthem,0
+MyShape Lipo,1
+Monty's Furniture Finds,1
+Starbucks,1
+Melted,1
+Pizzaiolo,1
+Legends Golf Course,1
+$100 Substance Abuse Evaluation,1
+Vegas Luxury VIP,1
+Grimaldi's Pizzeria,1
+Houdini Magic Shop,0
+LoLo Exotic Home Goods and Jewelry,1
+10 Dundas East,1
+Curry & Co,1
+Spa Dg Couture,1
+Goodyear Auto Service Center,1
+Disney Store,1
+Cora's Breakfast & Lunch,1
+Gorgeous Glo,0
+Social House,1
+D'Imperio's Restaurant,1
+Archadeck of Charlotte,0
+Discount Tire Store - Charlotte,0
+Carolina Eye Center & Med Spa,0
+Aladdin Bail Bonds,1
+See's Candy Shops,1
+Supercuts,1
+Cobs Bread,0
+Cvs Store 2877,0
+Tony Cordell Photography,1
+Thompson Diner,1
+Bob's Automotive,1
+Yafo Kosher Restaurant,1
+Food Court at Fashion Show Mall,0
+Bamboo Legend,1
+Tropical Smoothie Cafe,1
+Del Taco,1
+Restaurant Depot,1
+La Senza,1
+Quicken Loans Arena,1
+AZ Clear Choice Spa Movers,1
+Denny's,1
+Greulich's,0
+Subway,1
+Holiday Inn Select-City Centre Lakeshore,1
+Toronto Centre For the Arts,0
+Deli 194,0
+Phase Line Defense,1
+Bootleggers Modern American Smokehouse,1
+Academic Accolades,1
+Arcotel Camino,0
+Capitol Ford-New & Used Car & Truck Dealership,1
+McDonald's,1
+BiCE Ristorante,1
+Circle K,1
+White Lily Diner,1
+Cardenas Market,1
+Burger King,1
+Tommy's Subs,1
+Tacos Mexico,1
+Mi Amigo's Mexican Grill,1
+Nails Decor,1
+FedEx Office Print & Ship Center,1
+Hi Scores - Blue Diamond,0
+Cozy Cafe & Bakery,1
+Sprint Store By Fast Wireless,0
+Manna Mediterranean,1
+All-Star Chiropractic,1
+New York,1
+Mattress Man of Arizona,0
+Sago Sushi,1
+Santander,0
+Maui Wowi Hawaiian,1
+Mark J Gentile,1
+Eyemasters,1
+Street Feast Grill,1
+Goodwill Industries,0
+Import Auto Pros,1
+Bloorcourt Village Market,1
+Halibut House,1
+Farnsworth Orthopedic Physical Therapy,1
+Dilworth Custom Framing,1
+Dairy Queen,1
+Columbia Asian Food & Gift,0
+Halls Automotive and Towing,0
+Tomo Japanese Cuisine,1
+High Class Hookah Shop,0
+Tempe Schools Credit Union,1
+A Magic Touch Mobile Massage,1
+Mambo's Dominican Kitchen,1
+Kimling Hakka Fusion,0
+Confidentially Yours,1
+Rinaldi's Italian Deli,1
+Spirit Halloween,1
+Nama Sushi,1
+IHOP,1
+Butter NC,1
+Bonnie Screams,1
+Bofia Braiding,1
+Xander Salon,1
+Village Coffee Roastery,1
+Big O Tires,1
+Pets Wonderful,0
+Frank's Auto Repair,1
+Wagner Pest Solutions,1
+The Mission Old Town,0
+J's Kaiyo Sushi & Bar,0
+Classic Cakes and Confections Bakery,0
+Cop.Copine,0
+AdultMart,0
+Byham Theater,1
+TGI Fridays,1
+Active Runner,1
+International Cigar Club,1
+Taverna Ouzeri Kolokotronis,1
+Crown Of Thorns Tattoo,0
+Tire Works Total Car Care,1
+Red Rock Canyon Visitor Center,1
+Pool Craig W DDS,1
+A.T. Still University - Arizona Campus,0
+The Yellow Griffin,0
+Coco Rogue,1
+Charlotte Convention Center,1
+Acosta Heating & Cooling,1
+Freeman's Car Stereo,1
+Frite Alors,1
+Kipp's Down Home Cookin',0
+Brake Masters,1
+EZ Money Recycling,0
+Charlie D's Catfish & Chicken,0
+Wendy's,1
+Wynder Dogs,1
+Goodness Me! Natural Food Market,1
+Tarheel Appliance,0
+Anthem Plumbing,1
+Runner's Sports Bar,0
+Cosmos Records,1
+Flaming Kitchen,1
+McBride Companies,0
+Famous Sam's,1
+Us Nails And Spa,0
+Brimfield Bread Oven,1
+Halal Market & Deli,1
+Starbucks,1
+Mother Fool's Coffeehouse,1
+Gayfeather Fabrics,1
+Zara,0
+Boulevard Cameras,0
+Senor Taco,1
+Sunset Clinic,1
+Patrick Riley,1
+E-Waste Harvesters,1
+Maximum Air Care,1
+Laser 528,0
+Kb Home Studio,1
+Monterrey,0
+First Watch - Breakfast,0
+Comfort Cravings,1
+Costco,1
+Larca Sportartikel,0
+Taco Bell,1
+Puff & Fluff Grooming and Pet Sitting,1
+Ollie Quinn,1
+Engine House 25,1
+Applebee's,1
+P & J Hamburgers Inn,1
+Boustan,1
+Wendy's,1
+Renewal by Andersen,1
+Elite Custom Painting & Cabinet Refinishing,1
+Renfrow's Hardware & General Merchandise,1
+Presidio North Apartments,1
+Le Fripon,1
+Foto Bartmann,1
+Oaxaca Restaurant,0
+AAA Phoenix Office,0
+Euphoria Salon & Spa,1
+Beer Bourbon & BBQ Festival,1
+Oil Changers,1
+Market On Broadway IGA,0
+Taste of Korea,1
+South Mountain Post Acute,1
+Subway,1
+Canadian Drycleaners,1
+Casbah,1
+Modern Hair Beauty Supply,0
+Grape & Barley,0
+Value Self Storage,1
+Sbarro the Italian Eatery,1
+Dickies Factory Outlet,1
+Arby's,1
+Big 5 Sporting Goods,1
+Sushi Marche,0
+Loblaws,1
+Urban Chic,1
+Rebel Oil,1
+Sherry's Nails & Spa,1
+Beaches n Cream,1
+AMF Mesa Lanes,0
+Richmond Hill Golf Club,1
+Glory Of India Roti Cuisine,0
+AAA Bar,0
+Lemongrass,1
+Gigi's Italian Restaurant,1
+Your Wedding Dance,1
+Armed,0
+Poutine Lafleur,1
+Organic Oven Bakery and Cafe,1
+Too Busy To Clean,1
+Comet Veterinary Hospital,1
+Midi Bistro,1
+Jo-Lynn Pizza,0
+Cafe Bon Appetit,1
+Baker Bros Area Rugs and Flooring,0
+Quality Towing,1
+La Belle et la Boeuf,0
+Curtis P Page,0
+Scent From Above Company,1
+Frankie Fettuccine Food Truck,0
+Diamondback Air,1
+Red Mountain Ranch Country Club,1
+USA Youth Fitness Center,1
+Courtyard Pittsburgh Shadyside,0
+Einstein Bros Bagels,1
+Brides by the Falls,0
+Stellar Glass Works,1
+Kenny Speed's Tire & Performance Center,1
+Pizza Hut,1
+Brio Tuscan Grille,1
+Bay Dental Offices,0
+The Spice Hut,0
+Sheraton Charlotte Hotel,1
+Taco Bar,1
+Marc's No Frills,1
+Dairy Queen,1
+Mr. Hero,1
+Tequileria Grille,1
+Simply Radiant by Laura Callahan,1
+Nick's Laptop Repair,1
+Steam House,1
+Pure Barre - Madison Hilldale,0
+Freshop Vape,1
+FitStudios Center,0
+Zeppe's Pizzeria,1
+Halo Horses Equestrian Boutique,1
+Bravi,0
+Mattress Firm Tatum Point,1
+Cole Haan,1
+786 Halal Biryani House,1
+Partners In Recovery,1
+9round,0
+Brand Name Consignment,1
+Tosinos Mexican Grill,1
+Mojo Cycles,1
+The UPS Store,1
+Sonora Quest Laboratories,1
+Shoppers Drug Mart,1
+Matt Rosen - HomeSmart Elite Group,1
+St-Ambroise Montreal Fringe Festival,0
+Pho Anh Restaurant,0
+The Dream BBQ,0
+The Pie Commission,1
+Piatti,0
+Los Cucos Mexican Cafe,1
+Hong Kong Island Bakery,1
+Quail Run Park,1

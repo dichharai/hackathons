@@ -1,0 +1,231 @@
+|Famous Potato|1|
+|Pat East Market|1|
+|Baskin-Robbins|1|
+|Aroma Espresso Bar|1|
+|Holly's Nail & Spa|1|
+|The House Of Loyal.T|0|
+|Golden Thread Dry Cleaners|1|
+|Mcramyun|1|
+|Buster's Pizza & Cream of White Oak|0|
+|Clean Colonic|1|
+|Electric Ladyland|1|
+|KHF Motoring|1|
+|Sobeys|1|
+|Super Liquor Outlet|1|
+|Mrakovic Meat & Deli|1|
+|Beaver Tails|0|
+|TCBY|1|
+|JD Nails|1|
+|Verizon|1|
+|Nike Factory Store|1|
+|Dr. L. David Richer|0|
+|Medical Marijuana Card|0|
+|Danier Factory Outlet|1|
+|Jack in the Box|1|
+|Bridge Home Inspections|0|
+|Starbucks|1|
+|Central Bark Doggy Day Care|1|
+|Eastlake Barber Shop|1|
+|Fry's Food Stores of Arizona|0|
+|Raspados el Tarasco|0|
+|Ozpresso|1|
+|Back To Shine Headlight Restoration|1|
+|B.A. Sweetie Candy|0|
+|Nicole J Moss|0|
+|Robin Hill Park|1|
+|Maurie's Fine Chocolates|0|
+|Planet Fitness - Phoenix - Metro Center|0|
+|Jimmy's Coffee|1|
+|Vegas Good Buys|0|
+|Eye Care North|1|
+|M Station Apartments|1|
+|Rachel Liberati - Howard Hanna|0|
+|Kilroy's|1|
+|XOOM Energy|1|
+|Haggen Food & Pharmacy|1|
+|Empire Hookah Lounge|1|
+|Fisherman's Choice Pro Shop|0|
+|Purdys Chocolatier|1|
+|Bruno's Valu-Mart|0|
+|Grandslam Pizza|1|
+|Enterprise Rent-A-Car|1|
+|Cup of Tea Bakery and Cafe|0|
+|La Belle Province|1|
+|El Grito Taqueria|1|
+|S-Bahnhof Stuttgart-Vaihingen|0|
+|Edulis|1|
+|Society of St Vincent De Paul|0|
+|HVAC Air Conditioning Repair|0|
+|Son Glow Boutique|0|
+|Beauty Supply Warehouse|1|
+|The Lily Pad|1|
+|Fuji Sushi & Grill|1|
+|Sole Sports Running Zone|1|
+|Markham YMCA|0|
+|Fortress Credit Pro|1|
+|Tabule Middle Eastern Cuisine|0|
+|Verona Wine Cellar|1|
+|Sweet Basil La Filipiniana|1|
+|Happys Pizza|1|
+|Budget Bridal|1|
+|Judit European Visage|1|
+|Happy Dog at the Euclid Tavern|1|
+|Fratelli Village Pizzeria|1|
+|Ilpunji Sushi House|1|
+|Hip Kids Pediatrics|1|
+|Cruelty Free Cupcakes|1|
+|Camden Fairview|1|
+|At The Ready|1|
+|Labpups|0|
+|Schulte Automotive Services|0|
+|Advanced Disposal Service|0|
+|Selah Salon|1|
+|Eliana's Restaurant|1|
+|Autozone|1|
+|Golden Valley Chinese Restaurant|1|
+|Dilallo Burger|1|
+|Well & Being at Willow Stream|1|
+|Sola Sofia|1|
+|Floorplay Socks|1|
+|Carol of Casey's Pizza|0|
+|Logan's Roadhouse|1|
+|Cafe Anfora|1|
+|Pole Position Raceway|1|
+|Subway|1|
+|Americas Best Value Inn|1|
+|Doetsch Off-Road|1|
+|Cvs Pharmacy|0|
+|LASIK MD|1|
+|Arrow Collision|1|
+|BJ's Buffet|1|
+|Michael W Harper|0|
+|Swarovski Canada|1|
+|Desert Education Solutions LLC|0|
+|Alfonso's Mexican Food|1|
+|Grimaldi's Pizzeria|1|
+|Golden Cake|1|
+|Wendy's|1|
+|Brazil Bakery & Pastry Ltd|0|
+|Thirsty Goat|1|
+|Collins-Mehling Transfer|0|
+|Puppies-N-Love|1|
+|Swensons Drive-In Restaurants|1|
+|HighLife North Tryon|0|
+|Casino Gaming School|1|
+|El Asadero|1|
+|Lewis Hitches|1|
+|WorldMark Las Vegas - Spencer Street|1|
+|Le Tropik Restaurant Bar|0|
+|Verona Chophouse|1|
+|Sail|0|
+|Pittsburgh Comics|1|
+|Budget Car Rental|1|
+|Angelos of Fort Mill|0|
+|Pappadeaux Seafood Kitchen|1|
+|Good Gosh Beauty|1|
+|Desert Blue Pool Service|0|
+|Water N Ice|1|
+|Senge Auto Body|1|
+|La Estetica|1|
+|McDonald's|1|
+|Anthem Pediatrics|1|
+|Danny's Family Car Wash|1|
+|Alterations By L|0|
+|Dows Bar|1|
+|Rodd Wolff's Hair Productions|0|
+|Journey's Dry Carpet Cleaning|1|
+|Papa Da Vinci|1|
+|Serendipity Salon Studio|1|
+|Mad House Coffee|1|
+|Discovery Family Health|1|
+|Defalco's Italian Grocery|1|
+|Health For Life|1|
+|Liberty Shawarma|1|
+|Fit4QOL|1|
+|Brown's Partsmaster|1|
+|Ciccio Sanwiccio|1|
+|Oinky's Pork Chop Heaven|1|
+|Alex the Salon At Ocotillo|1|
+|Columbus Bakery|1|
+|Value Village Thrift Store|1|
+|Sunwing Vacations|1|
+|Art's Family Auto Repair|1|
+|Jiffy Smog|1|
+|Lifestyles Fitness Personal Training|1|
+|Waggs-N-Whiskers|0|
+|Taco Bell|1|
+|Pete's Fish & Chips|1|
+|Hair Addiction|1|
+|Paul's Taxi|1|
+|Pizza Hut|1|
+|Sole Serenity|1|
+|Bar 3|0|
+|Morningside Spice|1|
+|Segovia Restaurant|1|
+|StripTease|1|
+|Country Club at the Meadows|0|
+|Bureau en Gros|1|
+|Girl Friday|1|
+|Arcadian|1|
+|Sunset Eye Center|1|
+|Blues|1|
+|Bikram Yoga North Scottsdale|1|
+|Beetlejuice|1|
+|Margret|1|
+|Dean Industries|0|
+|Panera Bread|1|
+|Paiute Park|1|
+|libero|0|
+|The Gourmet Cake Factory|1|
+|Mail & More|1|
+|Pine Hills Golf Club|1|
+|Black Forest Haus|1|
+|Sheraton Grand Phoenix|1|
+|California Sandwiches|1|
+|Abba Services|0|
+|Children's Dental Center|1|
+|The Charlotte Room|1|
+|Red Rockets 192 Grill|0|
+|Murdock Meals|1|
+|Import Autoworks|1|
+|Laptop Expert|1|
+|Seara Bakery & Pastry|1|
+|Best Nails|1|
+|The 420 Smokehouse|0|
+|Shinji|1|
+|Boulangerie Patisserie L'artisan|0|
+|Tuesday Morning|1|
+|North Thornhill Community Centre|1|
+|America's Best Value Inn|1|
+|Verve Beauty|0|
+|Big Smoke Burger|1|
+|Spay Neuter Clinic|1|
+|Jimmy John's|1|
+|Dairy Queen|1|
+|Surprise Dental Care|1|
+|Batteries America|1|
+|Bendix Launderette|1|
+|Bass Lake Taverne Inn|0|
+|Japaneiro|0|
+|Basil Thai Cafe|1|
+|Midway Bar at Hard Rock|0|
+|The Coffee Bean & Tea Leaf|1|
+|Simply Frosted Cupcakery|1|
+|The Recovery Room|1|
+|Allergy Asthma Clinic|1|
+|Farinaz Tailoring|1|
+|Crawford Market|0|
+|Blossom Music Center|1|
+|Gamblers Book Club|1|
+|Alan Arnold|0|
+|The Spice Room|1|
+|Shots Sports Bar|1|
+|Richmond Hill Toyota|1|
+|Style Furniture|1|
+|Uncle Sam's|1|
+|Applebee's|1|
+|Hermanos Mexican Grill|1|
+|US Post Office|1|
+|Marco's Pizza|1|
+|Godavari - South Indian Grandma's Kitchen|0|
+|Orangetheory Fitness Surprise|1|

@@ -1,0 +1,207 @@
+|High Class Hookah Shop|0|
+|Monterrey|0|
+|McBride Companies|0|
+|Halls Automotive and Towing|0|
+|Freeman's Car Stereo|1|
+|Tosinos Mexican Grill|1|
+|Jo-Lynn Pizza|0|
+|Santander|0|
+|Maui Wowi Hawaiian|1|
+|Flaming Kitchen|1|
+|Kipp's Down Home Cookin'|0|
+|Sushi Marche|0|
+|Renewal by Andersen|1|
+|Wynder Dogs|1|
+|P & J Hamburgers Inn|1|
+|Cop.Copine|0|
+|Red Rock Canyon Visitor Center|1|
+|Taco Bar|1|
+|Starbucks|1|
+|Brimfield Bread Oven|1|
+|Comfort Cravings|1|
+|The Yellow Griffin|0|
+|Simply Radiant by Laura Callahan|1|
+|Pure Barre - Madison Hilldale|0|
+|Scent From Above Company|1|
+|Tarheel Appliance|0|
+|Beaches n Cream|1|
+|786 Halal Biryani House|1|
+|Too Busy To Clean|1|
+|South Mountain Post Acute|1|
+|Stellar Glass Works|1|
+|Charlotte Convention Center|1|
+|Mi Amigo's Mexican Grill|1|
+|Mattress Firm Tatum Point|1|
+|FedEx Office Print & Ship Center|1|
+|Mr. Hero|1|
+|Partners In Recovery|1|
+|Tomo Japanese Cuisine|1|
+|Goodwill Industries|0|
+|Red Mountain Ranch Country Club|1|
+|Bonnie Screams|1|
+|Sunset Clinic|1|
+|Brides by the Falls|0|
+|Piatti|0|
+|La Belle et la Boeuf|0|
+|Oaxaca Restaurant|0|
+|Famous Sam's|1|
+|Richmond Hill Golf Club|1|
+|Columbia Asian Food & Gift|0|
+|Bravi|0|
+|Sbarro the Italian Eatery|1|
+|Nails Decor|1|
+|Boustan|1|
+|Urban Chic|1|
+|The UPS Store|1|
+|Laser 528|0|
+|Active Runner|1|
+|Brio Tuscan Grille|1|
+|Poutine Lafleur|1|
+|Sherry's Nails & Spa|1|
+|Brand Name Consignment|1|
+|Nick's Laptop Repair|1|
+|USA Youth Fitness Center|1|
+|Bay Dental Offices|0|
+|J's Kaiyo Sushi & Bar|0|
+|Organic Oven Bakery and Cafe|1|
+|Courtyard Pittsburgh Shadyside|0|
+|Sheraton Charlotte Hotel|1|
+|AAA Phoenix Office|0|
+|Brake Masters|1|
+|Crown Of Thorns Tattoo|0|
+|Marc's No Frills|1|
+|Burger King|1|
+|Oil Changers|1|
+|Cafe Bon Appetit|1|
+|IHOP|1|
+|Euphoria Salon & Spa|1|
+|Costco|1|
+|Halo Horses Equestrian Boutique|1|
+|Xander Salon|1|
+|Bofia Braiding|1|
+|Kb Home Studio|1|
+|Mambo's Dominican Kitchen|1|
+|The Dream BBQ|0|
+|Mojo Cycles|1|
+|Subway|1|
+|Anthem Plumbing|1|
+|AAA Bar|0|
+|Zara|0|
+|Casbah|1|
+|St-Ambroise Montreal Fringe Festival|0|
+|Shoppers Drug Mart|1|
+|Wendy's|1|
+|Foto Bartmann|1|
+|Dickies Factory Outlet|1|
+|Charlie D's Catfish & Chicken|0|
+|Curtis P Page|0|
+|Acosta Heating & Cooling|1|
+|Dilworth Custom Framing|1|
+|Tempe Schools Credit Union|1|
+|Goodness Me! Natural Food Market|1|
+|Frite Alors|1|
+|Arby's|1|
+|Taste of Korea|1|
+|A.T. Still University - Arizona Campus|0|
+|Los Cucos Mexican Cafe|1|
+|Le Fripon|1|
+|TGI Fridays|1|
+|Coco Rogue|1|
+|Mattress Man of Arizona|0|
+|Zeppe's Pizzeria|1|
+|AdultMart|0|
+|Beer Bourbon & BBQ Festival|1|
+|The Pie Commission|1|
+|First Watch - Breakfast|0|
+|Pho Anh Restaurant|0|
+|Nama Sushi|1|
+|Sprint Store By Fast Wireless|0|
+|Engine House 25|1|
+|Steam House|1|
+|Presidio North Apartments|1|
+|Halal Market & Deli|1|
+|Street Feast Grill|1|
+|The Mission Old Town|0|
+|Eyemasters|1|
+|Mother Fool's Coffeehouse|1|
+|Wagner Pest Solutions|1|
+|Rinaldi's Italian Deli|1|
+|Halibut House|1|
+|Spirit Halloween|1|
+|Midi Bistro|1|
+|Pets Wonderful|0|
+|Kenny Speed's Tire & Performance Center|1|
+|Maximum Air Care|1|
+|Quail Run Park|1|
+|Import Auto Pros|1|
+|Taco Bell|1|
+|FitStudios Center|0|
+|Elite Custom Painting & Cabinet Refinishing|1|
+|Hong Kong Island Bakery|1|
+|9round|0|
+|Pool Craig W DDS|1|
+|Puff & Fluff Grooming and Pet Sitting|1|
+|Patrick Riley|1|
+|Loblaws|1|
+|Taverna Ouzeri Kolokotronis|1|
+|Gayfeather Fabrics|1|
+|Einstein Bros Bagels|1|
+|Ollie Quinn|1|
+|Diamondback Air|1|
+|Pizza Hut|1|
+|Big 5 Sporting Goods|1|
+|Village Coffee Roastery|1|
+|Byham Theater|1|
+|New York|1|
+|AMF Mesa Lanes|0|
+|Tire Works Total Car Care|1|
+|Bloorcourt Village Market|1|
+|Canadian Drycleaners|1|
+|Hi Scores - Blue Diamond|0|
+|Butter NC|1|
+|Tommy's Subs|1|
+|Quality Towing|1|
+|Market On Broadway IGA|0|
+|Manna Mediterranean|1|
+|Us Nails And Spa|0|
+|Cosmos Records|1|
+|Applebee's|1|
+|Gigi's Italian Restaurant|1|
+|Tacos Mexico|1|
+|Mark J Gentile|1|
+|Grape & Barley|0|
+|Kimling Hakka Fusion|0|
+|Tequileria Grille|1|
+|Runner's Sports Bar|0|
+|Senor Taco|1|
+|International Cigar Club|1|
+|Boulevard Cameras|0|
+|Frankie Fettuccine Food Truck|0|
+|Matt Rosen - HomeSmart Elite Group|1|
+|EZ Money Recycling|0|
+|Freshop Vape|1|
+|Value Self Storage|1|
+|Comet Veterinary Hospital|1|
+|Dairy Queen|1|
+|The Spice Hut|0|
+|Frank's Auto Repair|1|
+|Big O Tires|1|
+|A Magic Touch Mobile Massage|1|
+|Rebel Oil|1|
+|Cole Haan|1|
+|Modern Hair Beauty Supply|0|
+|Your Wedding Dance|1|
+|Larca Sportartikel|0|
+|Confidentially Yours|1|
+|Cozy Cafe & Bakery|1|
+|E-Waste Harvesters|1|
+|Baker Bros Area Rugs and Flooring|0|
+|All-Star Chiropractic|1|
+|Classic Cakes and Confections Bakery|0|
+|Sago Sushi|1|
+|Glory Of India Roti Cuisine|0|
+|Farnsworth Orthopedic Physical Therapy|1|
+|Sonora Quest Laboratories|1|
+|Renfrow's Hardware & General Merchandise|1|
+|Armed|0|
+|Lemongrass|1|

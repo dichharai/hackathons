@@ -1,0 +1,141 @@
+|Edge Steakhouse|1|
+|Schropp|0|
+|Holiday Inn Select-City Centre Lakeshore|1|
+|Cardenas Market|1|
+|Disney Store|1|
+|Alphadrone|0|
+|Tropical Smoothie Cafe|1|
+|Frank's Plumbing|1|
+|Le Couteau|1|
+|White Lily Diner|1|
+|Yafo Kosher Restaurant|1|
+|Top Notch Air Conditioning & Heating Repair|0|
+|Food Court at Fashion Show Mall|0|
+|Short Leash Hot Dogs Food Truck|0|
+|New Living Pools|1|
+|Spago by Wolfgang Puck|1|
+|Royal Jasmine Thai Restaurant|1|
+|Spa Dg Couture|1|
+|Raising Cane's|0|
+|Cobs Bread|0|
+|Humber River Regional Hospital|1|
+|Real Canadian Superstore|1|
+|Budget Movers|1|
+|Blair Ballin Realtor|1|
+|Daulat Medical Center|1|
+|Motors & More|1|
+|Healthy Life Family Medicine|1|
+|BiCE Ristorante|1|
+|La Senza|1|
+|Goodyear Auto Service Center|1|
+|Le Petit Coin|1|
+|Hooters|1|
+|Brannon Hair|1|
+|Kaercher Automotive|1|
+|Whole Foods Market|1|
+|The Audrey Beauty Bar|0|
+|Gussied Up|1|
+|Arcotel Camino|0|
+|Bob's Automotive|1|
+|The Red Rooster|1|
+|Society of St Vincent De Paul|0|
+|KanBai|0|
+|Magic Brows|1|
+|MVP Bar Sportif|0|
+|Wild Indigo|1|
+|Gorgeous Glo|0|
+|Fry's Food and Drug|0|
+|Macado's|1|
+|Select Auto Glass|1|
+|Monty's Furniture Finds|1|
+|KD Wallace Optometry|0|
+|The Southern|1|
+|Social House|1|
+|Gado Gado|1|
+|Omoide Sushi & Noodle Bar|1|
+|Bootleggers Modern American Smokehouse|1|
+|Bug & Weed Mart|1|
+|Stevie's Healing Arts & Spa|1|
+|Bamboo Legend|1|
+|The Rude Boy|1|
+|Greulich's|0|
+|Club Fu Wing Chun Kung Fu|0|
+|Cora's Breakfast & Lunch|1|
+|Archadeck of Charlotte|0|
+|Vegas Luxury VIP|1|
+|Toronto Centre For the Arts|0|
+|Thompson Diner|1|
+|Denny's|1|
+|Subway|1|
+|Penelope Pink|1|
+|Grimaldi's Pizzeria|1|
+|Chipotle Mexican Grill|1|
+|Jiffy Lube|1|
+|Raimondo's|1|
+|Best Buy Mobile|1|
+|Robertos Taco Shop|1|
+|Discount Tire Store - Charlotte|0|
+|A & B Barbershop|1|
+|Magic Bumper Repair|1|
+|Popeyes Louisiana Kitchen|1|
+|Dublin Auto Repairs|1|
+|Marie Callender's Restaurant & Bakery|1|
+|Total Wine & More|1|
+|McDonald's|1|
+|Cholla Custom Cabinets|1|
+|Phase Line Defense|1|
+|Sneaky Dee's|1|
+|Recinos Shoe Repair|1|
+|Starbucks|1|
+|Pizzaiolo|1|
+|Pitaya|1|
+|Fine Wine & Good Spirits|1|
+|Cactus Sports|1|
+|Tony Cordell Photography|1|
+|Legends Golf Course|1|
+|Taco Bell|1|
+|Curry & Co|1|
+|The Captains Table|1|
+|Panda Express|1|
+|All Storage - Anthem|0|
+|LoLo Exotic Home Goods and Jewelry|1|
+|Cvs Store 2877|0|
+|It's A Grind Coffee House|1|
+|Pizza Hut|1|
+|Evershine Print & Parcel|1|
+|Capitol Ford-New & Used Car & Truck Dealership|1|
+|Bojangles' Famous Chicken 'n Biscuits|1|
+|Asian Cafe|1|
+|Otto Onkel|0|
+|Oaks Gardens Restaurant|1|
+|Academic Accolades|1|
+|MyShape Lipo|1|
+|AZ Clear Choice Spa Movers|1|
+|Law Office of Richards & Associates|1|
+|10 Dundas East|1|
+|D'Imperio's Restaurant|1|
+|See's Candy Shops|1|
+|Rita's Italian Ice|1|
+|Costa Verde BBQ Chicken|1|
+|$100 Substance Abuse Evaluation|1|
+|Aladdin Bail Bonds|1|
+|Pioneer Ford|1|
+|Circle K|1|
+|Carolina Eye Center & Med Spa|0|
+|Del Taco|1|
+|Restaurant Depot|1|
+|Bill's Garden Centre|1|
+|Melted|1|
+|Sac Wich|1|
+|Oggi's|0|
+|Pediatric & Adult Vision Care|1|
+|Mommy 2B Experience|1|
+|Supercuts|1|
+|Bricks & Minifigs Madison|1|
+|Walgreens|1|
+|CoR Tapas & Wine|0|
+|Quicken Loans Arena|1|
+|Pinnacle Fencing Solutions|1|
+|Deli 194|0|
+|Houdini Magic Shop|0|
+|The Westin Convention Center|0|

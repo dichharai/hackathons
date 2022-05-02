@@ -1,0 +1,172 @@
+|Sport Clips|0|
+|Pils-Stube Ritter|1|
+|Mood|1|
+|Zahid Hamid|1|
+|Juicy Vapes|1|
+|Veritas|1|
+|McChans Oriental Express|0|
+|Amuse-Bouche Restaurant|0|
+|The Great Canadian Pizza Company|1|
+|Jade Palace|1|
+|Freshii Rutherford Marketplace|1|
+|Sushi Shop|1|
+|Papa John's Pizza|1|
+|First Choice Communications|1|
+|Mary Contreras - State Farm Insurance Agent|0|
+|Gigi's Cupcakes of Phoenix|0|
+|Starbucks|1|
+|Empire Customs|1|
+|Skinny Me Chocolate|0|
+|Brick Street Bread|0|
+|Modern Furniture Studio|1|
+|Mariscos Playa Escondida|1|
+|Kulinarium an der Glems|1|
+|Don Ruben's Mexican Restaurant|1|
+|Mariachi|1|
+|Cvs|0|
+|The Ritz of Las Vegas|1|
+|Petrosilius|1|
+|Good Time Bar|1|
+|Chase Bank|1|
+|The CORE Institute- Gilbert|0|
+|T & D Steak-Burger|1|
+|Banfield Pet Hospital|1|
+|Buzz Buzz Pizza|1|
+|Alterations Express|1|
+|Joshan Filipino Oriental Market|0|
+|Studio 2.0 Ink|0|
+|Ripple Management|1|
+|Thrift DLux|1|
+|Executive Training Solutions|1|
+|NOIR Salon|0|
+|Al Phillips the Cleaner|1|
+|Brautatelier Tara|1|
+|Toronto Distillery|1|
+|Cardiac Solutions|1|
+|Island Spice|1|
+|Cineplex Cinemas|1|
+|Gilbert Family Medicine|0|
+|Colling Photography|1|
+|Smoke Bourbon Bar-B-Q House|0|
+|The Pittsburgh Popcorn Company|0|
+|Tausche|0|
+|Firehouse Subs|1|
+|La Boite A Coiffer|0|
+|Buddy's Muffler & Exhaust|0|
+|Catalina Sports Bar & Grill|0|
+|Affordable Auto Repair|1|
+|Sherwin-Williams Paint Store|0|
+|Baby Cakes|1|
+|McGann & Chester|0|
+|Richie Chan's Chinese Restaurant|1|
+|Island Hub Restaurant & Lounge|1|
+|Chickenland|1|
+|PRO BIKE+RUN|0|
+|Ritters Auto Repair|0|
+|Chub's Place|1|
+|Bahama Buck's|1|
+|Top Limo Las Vegas|1|
+|Sushi Hoshimi|1|
+|Gold's Gym|1|
+|Subway|1|
+|Winchell's Donut House|1|
+|Crooked River BBQ + Beer|1|
+|Sgt. Clean's Car Wash|1|
+|AllSaints|0|
+|1 For the Road|0|
+|Progressive Insurance|1|
+|Ophelie Hats|1|
+|Village Ski and Snowboard|1|
+|Alcohol Educational Services|0|
+|Living Furniture|0|
+|Royal Dumpling|0|
+|Bellacino's Pizza & Grinders|1|
+|ATI Physical Therapy - Happy Valley|0|
+|Unity One|1|
+|Zeppe's Pizzeria|1|
+|Pure Barre - Lake Norman Birkdale|0|
+|Buk Chang Dong Soon Tofu|1|
+|Just Roughin' It Adventure Company|1|
+|The UPS Store|1|
+|Royal Dry Cleaners|1|
+|Friendly Hobbies|1|
+|Kelly's At Southbridge|0|
+|LensCrafters|1|
+|Detroit Lakewood Automotive|1|
+|Tea & Kitchen|0|
+|Buonanotte|1|
+|Chuparosa Park|1|
+|Mayfield Village|1|
+|Mercedes-Benz of Arrowhead|1|
+|Korean Cosmetics|1|
+|Grbach Bruce D DDS|0|
+|Joseph Garner|1|
+|McDonald's|1|
+|Randall's Fine Art & Custom Framing|0|
+|MainSha Restaurant|0|
+|Autospa of Arizona|1|
+|Labour of Love|1|
+|The Tap Room|1|
+|New P2K salon|0|
+|JB Cleaner & Tailor|0|
+|Coach|1|
+|Phoenix NewTimes|0|
+|Tott's Asian Diner|1|
+|The Globe Deli|0|
+|Desert West Surgery|1|
+|Arizona Sports Chiropractic & Wellness Center|1|
+|Petco|1|
+|AZ's Best Locksmith|0|
+|Atkins' Verona Bicycle Shoppe|0|
+|Bittner Vision Associates|1|
+|Bookmaster|1|
+|Romeo's Pizza|1|
+|One Las Vegas Home Owners Association|1|
+|Smallcakes Cave Creek|1|
+|Prestige Portraits|1|
+|AutoZone|1|
+|Salon Picasso|1|
+|Five Guys|1|
+|Flato Markham Theatre|1|
+|Organic Nail Bar|1|
+|Big Daddy's Bourbon Street Bistro & Oyster Bar|1|
+|Armor Pest Defense|1|
+|City Wide Plumbing|1|
+|Arpino Trattoria|1|
+|Claim Jumper|1|
+|The Home Depot|1|
+|The Fox & Fiddle|1|
+|A&T Remodeling Stucco|0|
+|Murrhardter Hof Burhan|0|
+|Angel Touch Nails|1|
+|Alto Restaurant|1|
+|Baja Miguel's|0|
+|Welch Dentistry|1|
+|Stagehouse Vision Center|1|
+|Bombay Chopsticks|1|
+|Film Monkey|0|
+|Sidewalk Cafe Painesville|1|
+|Got What It Cakes|1|
+|Taza Indian Kitchen|1|
+|Wingstop|1|
+|Second Cup|1|
+|Steak 'n Shake|1|
+|Sushi Osaka|1|
+|Midas|1|
+|Little Italy|1|
+|Automotive Dynamics|1|
+|Gecko Grill|1|
+|Bella Smiles|1|
+|Mex Mufflers & Brakes|1|
+|Walgreens|1|
+|Sexy Nails & Spa|1|
+|Twisted Tree Health|0|
+|Centurion Management Services|0|
+|House of Africa|0|
+|Scuba Specialties|1|
+|AZ CUSTOM COATINGS|1|
+|Clean Machine|1|
+|Sal's New York Pizzeria|1|
+|Love's In The Hair|1|
+|CIA Customs|1|
+|Concrete Accessories|0|

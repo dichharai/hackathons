@@ -1,0 +1,76 @@
+|Desert Title Service|1|
+|Rocky's|1|
+|Artificial Grass Masters|1|
+|El Pollo Loco|1|
+|Box Brothers|1|
+|Neighborhood Vision Center|1|
+|Oishi Sushi|1|
+|Baja Fresh Mexican Grill|1|
+|Rad Air Complete Car Care and Tire Centers|1|
+|Celebrity Theatre|1|
+|Premiere Social Media|1|
+|The UPS Store|1|
+|Le Cartet|1|
+|Hyde Out|1|
+|Back-Health Chiropractic|0|
+|Paris Bakery & Pastry|0|
+|McCarthy's Irish Pub|1|
+|Red Lobster|1|
+|TRUmatch|1|
+|Black Bull Tavern|1|
+|Hart House Theatre|1|
+|The Works|1|
+|U.S. Bank|1|
+|Domino's Pizza|1|
+|Wells Fargo Bank|1|
+|Anasazi Foundation|0|
+|Papa Chang's Tea Bistro|1|
+|Blimpie|1|
+|Fortinos Supermarket|1|
+|Milestones Restaurants|0|
+|Ristorante Beatrice|1|
+|The Tattoo Lounge|1|
+|Bella Christine Salon and Spa|1|
+|Nabers Music|0|
+|Theodor-Heuss-Haus|1|
+|Beach Ventures Roofing|1|
+|Professional Property Management|1|
+|China Garden|1|
+|Sq Cutz|0|
+|QQ Foot Spa|1|
+|Valvona & Crolla|1|
+|Saks Fifth Avenue|1|
+|Baxter's Cigars|1|
+|Schenk's Corners Coin-Op Laundromat|1|
+|Wild Wing|0|
+|Sun Devil Window Cleaning|1|
+|Snip-its Rocky River|0|
+|Boardwalk Place|1|
+|Fiesta Ranchera|1|
+|Red Rock Bowling UYE Part 2|1|
+|Fast Movers|1|
+|Auto Bathouse|1|
+|Farra Swan Nd|0|
+|Koko Bakery|1|
+|Richmond Town Square|1|
+|Adelaide Hall|1|
+|Sisley Hyundai|1|
+|Five Guys|1|
+|Great Clips|1|
+|JAB Jewelry Designs|1|
+|Enterprise Rent-A-Car|1|
+|Szechuan Cuisine|0|
+|Precision Tune Auto Care|1|
+|South Florida Style Chicken & Ribs|1|
+|Lowe's Home Improvement|1|
+|Sangria Lounge|1|
+|Krispy Kreme Doughnuts|1|
+|Express Collision Center|1|
+|Applebee's|1|
+|Quaker Steak & Lube|0|
+|Safeway|1|
+|Profile Nail Spa|0|
+|The Tea Emporium|1|
+|Gunnell's Tire & Auto|1|
+|Direct Mindpower|1|
+|Dash Designs|1|
